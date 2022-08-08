@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Playball&display=swap%27');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Lobster');
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  text-shadow: 3px 0 #232931;
+  font-size: 100px;
+  color: #D61C4E;
+}
+
+p {
+  font-size: 3rem;
+  color: #D61C4EA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  display: flex;
+  border-radius: 10px;
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #D61C4E;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+}
